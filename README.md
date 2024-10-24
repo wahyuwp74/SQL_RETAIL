@@ -202,7 +202,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. Feel free to get in touch!
 Email = wahyu.wp74@gmail.com
 LinkedIn = https://www.linkedin.com/in/wahyu-wibowo/
 
